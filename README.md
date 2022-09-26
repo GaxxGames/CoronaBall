@@ -1,5 +1,6 @@
 # CoronaBall
 Android volleyball game scripts
+
 Game video:
 https://www.youtube.com/watch?v=UpUy4JOSUHA
 
@@ -12,7 +13,6 @@ https://play.google.com/store/apps/developer?id=Gaxx+Games
 My Youtube Channel:
 https://www.youtube.com/channel/UCvaR5DzoPDuSiA2ylubRxLQ
 
-My websites:
+My website:
 https://gaxxgames.com
-https://tomgalek.com/
 
